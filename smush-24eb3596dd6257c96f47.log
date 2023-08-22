@@ -1,0 +1,760 @@
+[2023-01-10 13:51:57 : INFO] - Re_Smush_It_Task server status: Online 
+[2023-01-10 13:51:58 : INFO] - 
+ 
+[2023-01-10 13:51:58 : INFO] - Header for logs at time:  Tue, 10 Jan 2023 13:51:58 +0000 on http://edpa.ng 
+[2023-01-10 13:51:58 : INFO] - WP: 6.1.1 
+[2023-01-10 13:51:58 : INFO] - PHP: 7.4.33 (litespeed, Linux p3plzcpnl464869.prod.phx3.secureserver.net 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-01-10 13:51:58 : INFO] - MySQL: 5.7.40 
+[2023-01-10 13:51:58 : INFO] - WPLANG: en_US 
+[2023-01-10 13:51:58 : INFO] - Server: Apache 
+[2023-01-10 13:51:58 : INFO] - Outbound connections: N 
+[2023-01-10 13:51:58 : INFO] - safe_mode: 0 
+[2023-01-10 13:51:58 : INFO] - max_execution_time: 30 
+[2023-01-10 13:51:58 : INFO] - memory_limit: 128M (used: 14.4M | 16M) 
+[2023-01-10 13:51:58 : INFO] - multisite: N 
+[2023-01-10 13:51:58 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-01-10 13:51:59 : INFO] - A total of 47 tasks of type smush found and will be processed in this iteration 
+[2023-01-10 13:51:59 : DEBUG] - Lock option (updraft_lock_smush, wp_01options) was created in the database 
+[2023-01-10 13:51:59 : INFO] - Lock (updraft_lock_smush, wp_01options) acquired after initialising the database 
+[2023-01-10 13:51:59 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2023-01-10 13:51:59 : INFO] - Re_Smush_It_Task - Attachment ID : 295, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:51:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:51:59 : INFO] - 75 
+[2023-01-10 13:52:00 : INFO] - Backing up the original image - 2020/08/IMG-20200818-WA0031-1-updraft-pre-smush-original.jpg 
+[2023-01-10 13:52:00 : INFO] - Re_Smush_It_Task - Attachment ID : 295, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:00 : INFO] - 75 
+[2023-01-10 13:52:01 : INFO] - Re_Smush_It_Task - Attachment ID : 295, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:01 : INFO] - 75 
+[2023-01-10 13:52:02 : INFO] - Re_Smush_It_Task - Attachment ID : 295, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:02 : INFO] - 75 
+[2023-01-10 13:52:03 : INFO] - Re_Smush_It_Task - Attachment ID : 295, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:03 : INFO] - 75 
+[2023-01-10 13:52:04 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2020/08/IMG-20200818-WA0031-1.jpg.The file was compressed from 34.36 KB to 33.87 KB saving 1.42 percent using WP-Optimize 
+[2023-01-10 13:52:04 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2023-01-10 13:52:04 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2023-01-10 13:52:04 : INFO] - Re_Smush_It_Task - Attachment ID : 296, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:04 : INFO] - 75 
+[2023-01-10 13:52:09 : INFO] - Backing up the original image - 2020/08/emotan-1-updraft-pre-smush-original.jpg 
+[2023-01-10 13:52:09 : INFO] - Re_Smush_It_Task - Attachment ID : 296, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:09 : INFO] - 75 
+[2023-01-10 13:52:10 : INFO] - Re_Smush_It_Task - Attachment ID : 296, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:10 : INFO] - 75 
+[2023-01-10 13:52:13 : INFO] - Re_Smush_It_Task - Attachment ID : 296, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:13 : INFO] - 75 
+[2023-01-10 13:52:14 : INFO] - Re_Smush_It_Task - Attachment ID : 296, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:14 : INFO] - 75 
+[2023-01-10 13:52:16 : INFO] - Re_Smush_It_Task - Attachment ID : 296, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:16 : INFO] - 75 
+[2023-01-10 13:52:20 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2020/08/emotan-1.jpg.The file was compressed from 255.38 KB to 255.38 KB saving 0 percent using WP-Optimize 
+[2023-01-10 13:52:20 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2023-01-10 13:52:20 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2023-01-10 13:52:20 : INFO] - Re_Smush_It_Task - Attachment ID : 297, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:20 : INFO] - 75 
+[2023-01-10 13:52:24 : INFO] - Backing up the original image - 2020/08/Emotan-2-updraft-pre-smush-original.jpg 
+[2023-01-10 13:52:24 : INFO] - Re_Smush_It_Task - Attachment ID : 297, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:24 : INFO] - 75 
+[2023-01-10 13:52:24 : INFO] - Re_Smush_It_Task - Attachment ID : 297, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:24 : INFO] - 75 
+[2023-01-10 13:52:26 : INFO] - Re_Smush_It_Task - Attachment ID : 297, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:26 : INFO] - 75 
+[2023-01-10 13:52:27 : INFO] - Re_Smush_It_Task - Attachment ID : 297, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:27 : INFO] - 75 
+[2023-01-10 13:52:28 : INFO] - Re_Smush_It_Task - Attachment ID : 297, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:28 : INFO] - 75 
+[2023-01-10 13:52:31 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2020/08/Emotan-2.jpg.The file was compressed from 188.94 KB to 188.94 KB saving 0 percent using WP-Optimize 
+[2023-01-10 13:52:31 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2023-01-10 13:52:31 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2023-01-10 13:52:31 : INFO] - Re_Smush_It_Task - Attachment ID : 298, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:31 : INFO] - 75 
+[2023-01-10 13:52:36 : INFO] - Backing up the original image - 2020/08/emotan-3-updraft-pre-smush-original.jpg 
+[2023-01-10 13:52:36 : INFO] - Re_Smush_It_Task - Attachment ID : 298, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:36 : INFO] - 75 
+[2023-01-10 13:52:36 : INFO] - Re_Smush_It_Task - Attachment ID : 298, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:36 : INFO] - 75 
+[2023-01-10 13:52:38 : INFO] - Re_Smush_It_Task - Attachment ID : 298, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:38 : INFO] - 75 
+[2023-01-10 13:52:39 : INFO] - Re_Smush_It_Task - Attachment ID : 298, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:39 : INFO] - 75 
+[2023-01-10 13:52:40 : INFO] - Re_Smush_It_Task - Attachment ID : 298, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:40 : INFO] - 75 
+[2023-01-10 13:52:45 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2020/08/emotan-3.jpg.The file was compressed from 208.72 KB to 208.72 KB saving 0 percent using WP-Optimize 
+[2023-01-10 13:52:45 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2023-01-10 13:52:45 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2023-01-10 13:52:45 : INFO] - Re_Smush_It_Task - Attachment ID : 882, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:45 : INFO] - 75 
+[2023-01-10 13:52:47 : INFO] - Backing up the original image - 2021/10/cropped-Edpa-Main-Logo-updraft-pre-smush-original.png 
+[2023-01-10 13:52:47 : INFO] - Re_Smush_It_Task - Attachment ID : 882, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:47 : INFO] - 75 
+[2023-01-10 13:52:48 : INFO] - Re_Smush_It_Task - Attachment ID : 882, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:48 : INFO] - 75 
+[2023-01-10 13:52:48 : INFO] - Re_Smush_It_Task - Attachment ID : 882, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:48 : INFO] - 75 
+[2023-01-10 13:52:50 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2021/10/cropped-Edpa-Main-Logo.png.The file was compressed from 82.12 KB to 28.80 KB saving 64.93 percent using WP-Optimize 
+[2023-01-10 13:52:50 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2023-01-10 13:52:50 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2023-01-10 13:52:50 : INFO] - Re_Smush_It_Task - Attachment ID : 884, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:50 : INFO] - 75 
+[2023-01-10 13:52:52 : INFO] - Backing up the original image - 2021/10/Edpa-Logo-updraft-pre-smush-original.png 
+[2023-01-10 13:52:52 : INFO] - Re_Smush_It_Task - Attachment ID : 884, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:52 : INFO] - 75 
+[2023-01-10 13:52:53 : INFO] - Re_Smush_It_Task - Attachment ID : 884, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:53 : INFO] - 75 
+[2023-01-10 13:52:54 : INFO] - Re_Smush_It_Task - Attachment ID : 884, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:54 : INFO] - 75 
+[2023-01-10 13:52:54 : INFO] - Re_Smush_It_Task - Attachment ID : 884, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:54 : INFO] - 75 
+[2023-01-10 13:52:55 : INFO] - Re_Smush_It_Task - Attachment ID : 884, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:55 : INFO] - 75 
+[2023-01-10 13:52:57 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2021/10/Edpa-Logo.png.The file was compressed from 75.02 KB to 25.39 KB saving 66.15 percent using WP-Optimize 
+[2023-01-10 13:52:57 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2023-01-10 13:52:57 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2023-01-10 13:52:57 : INFO] - Re_Smush_It_Task - Attachment ID : 885, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:57 : INFO] - 75 
+[2023-01-10 13:52:58 : INFO] - 
+ 
+[2023-01-10 13:52:58 : INFO] - Header for logs at time:  Tue, 10 Jan 2023 13:52:58 +0000 on http://edpa.ng 
+[2023-01-10 13:52:58 : INFO] - WP: 6.1.1 
+[2023-01-10 13:52:58 : INFO] - PHP: 7.4.33 (litespeed, Linux p3plzcpnl464869.prod.phx3.secureserver.net 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-01-10 13:52:58 : INFO] - MySQL: 5.7.40 
+[2023-01-10 13:52:58 : INFO] - WPLANG: en_US 
+[2023-01-10 13:52:58 : INFO] - Server: Apache 
+[2023-01-10 13:52:58 : INFO] - Outbound connections: N 
+[2023-01-10 13:52:58 : INFO] - safe_mode: 0 
+[2023-01-10 13:52:58 : INFO] - max_execution_time: 30 
+[2023-01-10 13:52:58 : INFO] - memory_limit: 128M (used: 14.3M | 16M) 
+[2023-01-10 13:52:58 : INFO] - multisite: N 
+[2023-01-10 13:52:58 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-01-10 13:52:58 : INFO] - A total of 41 tasks of type smush found and will be processed in this iteration 
+[2023-01-10 13:52:58 : DEBUG] - Lock option (updraft_lock_smush, wp_01options) already existed in the database 
+[2023-01-10 13:52:58 : INFO] - Lock (updraft_lock_smush, wp_01options) could not be acquired (it is locked) 
+[2023-01-10 13:52:58 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2023-01-10 13:52:59 : INFO] - Backing up the original image - 2021/10/cropped-Edpa-Logo-updraft-pre-smush-original.png 
+[2023-01-10 13:52:59 : INFO] - Re_Smush_It_Task - Attachment ID : 885, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:52:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:52:59 : INFO] - 75 
+[2023-01-10 13:53:00 : INFO] - Re_Smush_It_Task - Attachment ID : 885, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:00 : INFO] - 75 
+[2023-01-10 13:53:02 : INFO] - Re_Smush_It_Task - Attachment ID : 885, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:02 : INFO] - 75 
+[2023-01-10 13:53:02 : INFO] - Re_Smush_It_Task - Attachment ID : 885, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:02 : INFO] - 75 
+[2023-01-10 13:53:03 : INFO] - Re_Smush_It_Task - Attachment ID : 885, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:03 : INFO] - 75 
+[2023-01-10 13:53:04 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2021/10/cropped-Edpa-Logo.png.The file was compressed from 78.39 KB to 27.97 KB saving 64.32 percent using WP-Optimize 
+[2023-01-10 13:53:04 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2023-01-10 13:53:04 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2023-01-10 13:53:04 : INFO] - Re_Smush_It_Task - Attachment ID : 886, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:04 : INFO] - 75 
+[2023-01-10 13:53:05 : INFO] - Backing up the original image - 2021/10/edpa-icon-updraft-pre-smush-original.png 
+[2023-01-10 13:53:05 : INFO] - Re_Smush_It_Task - Attachment ID : 886, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:05 : INFO] - 75 
+[2023-01-10 13:53:05 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2021/10/edpa-icon.png.The file was compressed from 6.45 KB to 2.87 KB saving 55.48 percent using WP-Optimize 
+[2023-01-10 13:53:05 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2023-01-10 13:53:05 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2023-01-10 13:53:05 : INFO] - Re_Smush_It_Task - Attachment ID : 887, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:05 : INFO] - 75 
+[2023-01-10 13:53:06 : INFO] - Backing up the original image - 2021/10/cropped-edpa-icon-updraft-pre-smush-original.png 
+[2023-01-10 13:53:06 : INFO] - Re_Smush_It_Task - Attachment ID : 887, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:06 : INFO] - 75 
+[2023-01-10 13:53:07 : INFO] - Re_Smush_It_Task - Attachment ID : 887, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:07 : INFO] - 75 
+[2023-01-10 13:53:08 : INFO] - Re_Smush_It_Task - Attachment ID : 887, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:08 : INFO] - 75 
+[2023-01-10 13:53:08 : INFO] - Re_Smush_It_Task - Attachment ID : 887, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:08 : INFO] - 75 
+[2023-01-10 13:53:09 : INFO] - Re_Smush_It_Task - Attachment ID : 887, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:09 : INFO] - 75 
+[2023-01-10 13:53:09 : INFO] - Re_Smush_It_Task - Attachment ID : 887, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:09 : INFO] - 75 
+[2023-01-10 13:53:10 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2021/10/cropped-edpa-icon.png.The file was compressed from 20.72 KB to 7.46 KB saving 64 percent using WP-Optimize 
+[2023-01-10 13:53:10 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2023-01-10 13:53:10 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2023-01-10 13:53:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1025, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:10 : INFO] - 75 
+[2023-01-10 13:53:12 : INFO] - Backing up the original image - 2022/04/GetPaidStock.com-62691cc8e72b9-updraft-pre-smush-original.jpg 
+[2023-01-10 13:53:12 : INFO] - Re_Smush_It_Task - Attachment ID : 1025, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:12 : INFO] - 75 
+[2023-01-10 13:53:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1025, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:13 : INFO] - 75 
+[2023-01-10 13:53:14 : INFO] - Re_Smush_It_Task - Attachment ID : 1025, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:14 : INFO] - 75 
+[2023-01-10 13:53:15 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/04/GetPaidStock.com-62691cc8e72b9.jpg.The file was compressed from 95.28 KB to 57.12 KB saving 40.05 percent using WP-Optimize 
+[2023-01-10 13:53:15 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2023-01-10 13:53:15 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2023-01-10 13:53:15 : INFO] - Re_Smush_It_Task - Attachment ID : 1144, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:15 : INFO] - 75 
+[2023-01-10 13:53:21 : INFO] - Backing up the original image - 2022/07/Artboard-1-updraft-pre-smush-original.jpg 
+[2023-01-10 13:53:21 : INFO] - Re_Smush_It_Task - Attachment ID : 1144, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:21 : INFO] - 75 
+[2023-01-10 13:53:22 : INFO] - Re_Smush_It_Task - Attachment ID : 1144, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:22 : INFO] - 75 
+[2023-01-10 13:53:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1144, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:24 : INFO] - 75 
+[2023-01-10 13:53:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1144, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:24 : INFO] - 75 
+[2023-01-10 13:53:26 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Artboard-1.jpg.The file was compressed from 815.73 KB to 126.29 KB saving 84.52 percent using WP-Optimize 
+[2023-01-10 13:53:26 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2023-01-10 13:53:26 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2023-01-10 13:53:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1145, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:26 : INFO] - 75 
+[2023-01-10 13:53:37 : INFO] - Backing up the original image - 2022/07/Artboard-2-updraft-pre-smush-original.jpg 
+[2023-01-10 13:53:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1145, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:37 : INFO] - 75 
+[2023-01-10 13:53:38 : INFO] - Re_Smush_It_Task - Attachment ID : 1145, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:38 : INFO] - 75 
+[2023-01-10 13:53:42 : INFO] - Re_Smush_It_Task - Attachment ID : 1145, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:42 : INFO] - 75 
+[2023-01-10 13:53:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1145, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:43 : INFO] - 75 
+[2023-01-10 13:53:45 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Artboard-2.jpg.The file was compressed from 1.11 MB to 198.18 KB saving 82.57 percent using WP-Optimize 
+[2023-01-10 13:53:45 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2023-01-10 13:53:45 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2023-01-10 13:53:45 : INFO] - Re_Smush_It_Task - Attachment ID : 1146, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:45 : INFO] - 75 
+[2023-01-10 13:53:54 : INFO] - Backing up the original image - 2022/07/Artboard-3-updraft-pre-smush-original.jpg 
+[2023-01-10 13:53:54 : INFO] - Re_Smush_It_Task - Attachment ID : 1146, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:54 : INFO] - 75 
+[2023-01-10 13:53:55 : INFO] - Re_Smush_It_Task - Attachment ID : 1146, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:55 : INFO] - 75 
+[2023-01-10 13:53:57 : INFO] - Re_Smush_It_Task - Attachment ID : 1146, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:57 : INFO] - 75 
+[2023-01-10 13:53:58 : INFO] - Re_Smush_It_Task - Attachment ID : 1146, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:58 : INFO] - 75 
+[2023-01-10 13:53:58 : INFO] - 
+ 
+[2023-01-10 13:53:58 : INFO] - Header for logs at time:  Tue, 10 Jan 2023 13:53:58 +0000 on http://edpa.ng 
+[2023-01-10 13:53:58 : INFO] - WP: 6.1.1 
+[2023-01-10 13:53:58 : INFO] - PHP: 7.4.33 (litespeed, Linux p3plzcpnl464869.prod.phx3.secureserver.net 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-01-10 13:53:58 : INFO] - MySQL: 5.7.40 
+[2023-01-10 13:53:58 : INFO] - WPLANG: en_US 
+[2023-01-10 13:53:58 : INFO] - Server: Apache 
+[2023-01-10 13:53:58 : INFO] - Outbound connections: N 
+[2023-01-10 13:53:58 : INFO] - safe_mode: 0 
+[2023-01-10 13:53:58 : INFO] - max_execution_time: 30 
+[2023-01-10 13:53:58 : INFO] - memory_limit: 128M (used: 14.3M | 16M) 
+[2023-01-10 13:53:58 : INFO] - multisite: N 
+[2023-01-10 13:53:58 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-01-10 13:53:58 : INFO] - A total of 35 tasks of type smush found and will be processed in this iteration 
+[2023-01-10 13:53:58 : DEBUG] - Lock option (updraft_lock_smush, wp_01options) already existed in the database 
+[2023-01-10 13:53:58 : INFO] - Lock (updraft_lock_smush, wp_01options) could not be acquired (it is locked) 
+[2023-01-10 13:53:58 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2023-01-10 13:53:59 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Artboard-3.jpg.The file was compressed from 966.81 KB to 164.69 KB saving 82.97 percent using WP-Optimize 
+[2023-01-10 13:53:59 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2023-01-10 13:53:59 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2023-01-10 13:53:59 : INFO] - Re_Smush_It_Task - Attachment ID : 1147, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:53:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:53:59 : INFO] - 75 
+[2023-01-10 13:54:20 : INFO] - Backing up the original image - 2022/07/Artboard-4-updraft-pre-smush-original.jpg 
+[2023-01-10 13:54:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1147, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:20 : INFO] - 75 
+[2023-01-10 13:54:21 : INFO] - Re_Smush_It_Task - Attachment ID : 1147, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:21 : INFO] - 75 
+[2023-01-10 13:54:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1147, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:26 : INFO] - 75 
+[2023-01-10 13:54:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1147, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:27 : INFO] - 75 
+[2023-01-10 13:54:29 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Artboard-4.jpg.The file was compressed from 1.30 MB to 253.32 KB saving 80.94 percent using WP-Optimize 
+[2023-01-10 13:54:29 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2023-01-10 13:54:29 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2023-01-10 13:54:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1148, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:29 : INFO] - 75 
+[2023-01-10 13:54:39 : INFO] - Backing up the original image - 2022/07/Artboard-1-1-updraft-pre-smush-original.jpg 
+[2023-01-10 13:54:39 : INFO] - Re_Smush_It_Task - Attachment ID : 1148, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:39 : INFO] - 75 
+[2023-01-10 13:54:39 : INFO] - Re_Smush_It_Task - Attachment ID : 1148, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:39 : INFO] - 75 
+[2023-01-10 13:54:42 : INFO] - Re_Smush_It_Task - Attachment ID : 1148, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:42 : INFO] - 75 
+[2023-01-10 13:54:42 : INFO] - Re_Smush_It_Task - Attachment ID : 1148, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:42 : INFO] - 75 
+[2023-01-10 13:54:43 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Artboard-1-1.jpg.The file was compressed from 815.73 KB to 126.29 KB saving 84.52 percent using WP-Optimize 
+[2023-01-10 13:54:43 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2023-01-10 13:54:43 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2023-01-10 13:54:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1149, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:43 : INFO] - 75 
+[2023-01-10 13:54:54 : INFO] - Backing up the original image - 2022/07/Artboard-2-1-updraft-pre-smush-original.jpg 
+[2023-01-10 13:54:54 : INFO] - Re_Smush_It_Task - Attachment ID : 1149, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:54 : INFO] - 75 
+[2023-01-10 13:54:55 : INFO] - Re_Smush_It_Task - Attachment ID : 1149, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:55 : INFO] - 75 
+[2023-01-10 13:54:57 : INFO] - Re_Smush_It_Task - Attachment ID : 1149, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:57 : INFO] - 75 
+[2023-01-10 13:54:58 : INFO] - Re_Smush_It_Task - Attachment ID : 1149, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:54:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:54:58 : INFO] - 75 
+[2023-01-10 13:55:00 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Artboard-2-1.jpg.The file was compressed from 1.11 MB to 198.18 KB saving 82.57 percent using WP-Optimize 
+[2023-01-10 13:55:00 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2023-01-10 13:55:00 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2023-01-10 13:55:00 : INFO] - Re_Smush_It_Task - Attachment ID : 1150, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:00 : INFO] - 75 
+[2023-01-10 13:55:00 : INFO] - 
+ 
+[2023-01-10 13:55:00 : INFO] - Header for logs at time:  Tue, 10 Jan 2023 13:55:00 +0000 on http://edpa.ng 
+[2023-01-10 13:55:00 : INFO] - WP: 6.1.1 
+[2023-01-10 13:55:00 : INFO] - PHP: 7.4.33 (litespeed, Linux p3plzcpnl464869.prod.phx3.secureserver.net 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-01-10 13:55:00 : INFO] - MySQL: 5.7.40 
+[2023-01-10 13:55:00 : INFO] - WPLANG: en_US 
+[2023-01-10 13:55:00 : INFO] - Server: Apache 
+[2023-01-10 13:55:00 : INFO] - Outbound connections: N 
+[2023-01-10 13:55:00 : INFO] - safe_mode: 0 
+[2023-01-10 13:55:00 : INFO] - max_execution_time: 30 
+[2023-01-10 13:55:00 : INFO] - memory_limit: 128M (used: 14.2M | 16M) 
+[2023-01-10 13:55:00 : INFO] - multisite: N 
+[2023-01-10 13:55:00 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-01-10 13:55:00 : INFO] - A total of 31 tasks of type smush found and will be processed in this iteration 
+[2023-01-10 13:55:00 : DEBUG] - Lock option (updraft_lock_smush, wp_01options) already existed in the database 
+[2023-01-10 13:55:00 : INFO] - Lock (updraft_lock_smush, wp_01options) could not be acquired (it is locked) 
+[2023-01-10 13:55:00 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2023-01-10 13:55:12 : INFO] - Backing up the original image - 2022/07/Artboard-3-1-updraft-pre-smush-original.jpg 
+[2023-01-10 13:55:12 : INFO] - Re_Smush_It_Task - Attachment ID : 1150, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:12 : INFO] - 75 
+[2023-01-10 13:55:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1150, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:13 : INFO] - 75 
+[2023-01-10 13:55:15 : INFO] - Re_Smush_It_Task - Attachment ID : 1150, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:15 : INFO] - 75 
+[2023-01-10 13:55:16 : INFO] - Re_Smush_It_Task - Attachment ID : 1150, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:16 : INFO] - 75 
+[2023-01-10 13:55:17 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Artboard-3-1.jpg.The file was compressed from 966.81 KB to 164.69 KB saving 82.97 percent using WP-Optimize 
+[2023-01-10 13:55:17 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2023-01-10 13:55:17 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2023-01-10 13:55:17 : INFO] - Re_Smush_It_Task - Attachment ID : 1228, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:17 : INFO] - 75 
+[2023-01-10 13:55:26 : INFO] - Backing up the original image - 2022/07/Golf-Mews-1-updraft-pre-smush-original.jpg 
+[2023-01-10 13:55:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1228, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:26 : INFO] - 75 
+[2023-01-10 13:55:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1228, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:26 : INFO] - 75 
+[2023-01-10 13:55:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1228, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:29 : INFO] - 75 
+[2023-01-10 13:55:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1228, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:29 : INFO] - 75 
+[2023-01-10 13:55:31 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Golf-Mews-1.jpg.The file was compressed from 794.87 KB to 132.84 KB saving 83.29 percent using WP-Optimize 
+[2023-01-10 13:55:31 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2023-01-10 13:55:31 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2023-01-10 13:55:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1229, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:31 : INFO] - 75 
+[2023-01-10 13:55:50 : INFO] - Backing up the original image - 2022/07/Golf-Mews-2-updraft-pre-smush-original.png 
+[2023-01-10 13:55:50 : INFO] - Re_Smush_It_Task - Attachment ID : 1229, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:50 : INFO] - 75 
+[2023-01-10 13:55:52 : INFO] - Re_Smush_It_Task - Attachment ID : 1229, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:52 : INFO] - 75 
+[2023-01-10 13:55:59 : INFO] - Re_Smush_It_Task - Attachment ID : 1229, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:55:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:55:59 : INFO] - 75 
+[2023-01-10 13:56:00 : INFO] - Re_Smush_It_Task - Attachment ID : 1229, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:56:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:56:00 : INFO] - 75 
+[2023-01-10 13:56:00 : INFO] - 
+ 
+[2023-01-10 13:56:00 : INFO] - Header for logs at time:  Tue, 10 Jan 2023 13:56:00 +0000 on http://edpa.ng 
+[2023-01-10 13:56:00 : INFO] - WP: 6.1.1 
+[2023-01-10 13:56:00 : INFO] - PHP: 7.4.33 (litespeed, Linux p3plzcpnl464869.prod.phx3.secureserver.net 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-01-10 13:56:00 : INFO] - MySQL: 5.7.40 
+[2023-01-10 13:56:00 : INFO] - WPLANG: en_US 
+[2023-01-10 13:56:00 : INFO] - Server: Apache 
+[2023-01-10 13:56:00 : INFO] - Outbound connections: N 
+[2023-01-10 13:56:00 : INFO] - safe_mode: 0 
+[2023-01-10 13:56:00 : INFO] - max_execution_time: 30 
+[2023-01-10 13:56:00 : INFO] - memory_limit: 128M (used: 14.2M | 16M) 
+[2023-01-10 13:56:00 : INFO] - multisite: N 
+[2023-01-10 13:56:00 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-01-10 13:56:00 : INFO] - A total of 29 tasks of type smush found and will be processed in this iteration 
+[2023-01-10 13:56:00 : DEBUG] - Lock option (updraft_lock_smush, wp_01options) already existed in the database 
+[2023-01-10 13:56:00 : INFO] - Lock (updraft_lock_smush, wp_01options) could not be acquired (it is locked) 
+[2023-01-10 13:56:00 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2023-01-10 13:56:06 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Golf-Mews-2.png.The file was compressed from 1.87 MB to 562.21 KB saving 70.71 percent using WP-Optimize 
+[2023-01-10 13:56:06 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2023-01-10 13:56:06 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2023-01-10 13:56:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1230, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:56:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:56:06 : INFO] - 75 
+[2023-01-10 13:56:24 : INFO] - Backing up the original image - 2022/07/Golf-Mews-3-updraft-pre-smush-original.png 
+[2023-01-10 13:56:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1230, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:56:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:56:24 : INFO] - 75 
+[2023-01-10 13:56:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1230, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:56:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:56:27 : INFO] - 75 
+[2023-01-10 13:56:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1230, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:56:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:56:43 : INFO] - 75 
+[2023-01-10 13:56:44 : INFO] - Re_Smush_It_Task - Attachment ID : 1230, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:56:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:56:44 : INFO] - 75 
+[2023-01-10 13:56:49 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Golf-Mews-3.png.The file was compressed from 1.72 MB to 601.97 KB saving 65.73 percent using WP-Optimize 
+[2023-01-10 13:56:49 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2023-01-10 13:56:49 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2023-01-10 13:56:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1231, Started on : January 10, 2023 01:51:58 
+[2023-01-10 13:56:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:56:49 : INFO] - 75 
+[2023-01-10 13:57:00 : INFO] - 
+ 
+[2023-01-10 13:57:00 : INFO] - Header for logs at time:  Tue, 10 Jan 2023 13:57:00 +0000 on http://edpa.ng 
+[2023-01-10 13:57:00 : INFO] - WP: 6.1.1 
+[2023-01-10 13:57:00 : INFO] - PHP: 7.4.33 (litespeed, Linux p3plzcpnl464869.prod.phx3.secureserver.net 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-01-10 13:57:00 : INFO] - MySQL: 5.7.40 
+[2023-01-10 13:57:00 : INFO] - WPLANG: en_US 
+[2023-01-10 13:57:00 : INFO] - Server: Apache 
+[2023-01-10 13:57:00 : INFO] - Outbound connections: N 
+[2023-01-10 13:57:00 : INFO] - safe_mode: 0 
+[2023-01-10 13:57:00 : INFO] - max_execution_time: 30 
+[2023-01-10 13:57:00 : INFO] - memory_limit: 128M (used: 14.1M | 16M) 
+[2023-01-10 13:57:00 : INFO] - multisite: N 
+[2023-01-10 13:57:00 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-01-10 13:57:00 : INFO] - A total of 27 tasks of type smush found and will be processed in this iteration 
+[2023-01-10 13:57:00 : INFO] - Lock (updraft_lock_smush, wp_01options) acquired 
+[2023-01-10 13:57:03 : INFO] - Task with ID 21 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2023-01-10 13:57:03 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2023-01-10 13:57:03 : INFO] - Re_Smush_It_Task - Attachment ID : 1482, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:03 : INFO] - 75 
+[2023-01-10 13:57:04 : INFO] - Backing up the original image - 2022/07/Emotan-Gardens-Site-Plan-B-updraft-pre-smush-original.png 
+[2023-01-10 13:57:04 : INFO] - Re_Smush_It_Task - Attachment ID : 1482, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:04 : INFO] - 75 
+[2023-01-10 13:57:05 : INFO] - Re_Smush_It_Task - Attachment ID : 1482, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:05 : INFO] - 75 
+[2023-01-10 13:57:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1482, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:07 : INFO] - 75 
+[2023-01-10 13:57:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1482, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:07 : INFO] - 75 
+[2023-01-10 13:57:09 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Emotan-Gardens-Site-Plan-B.png.The file was compressed from 67.21 KB to 23.88 KB saving 64.48 percent using WP-Optimize 
+[2023-01-10 13:57:09 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2023-01-10 13:57:09 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2023-01-10 13:57:09 : INFO] - Task with ID 23 and type (smush) failed with error code exceeded_max_filesize - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Aerial-View.png - cannot be optimized, file size is above service provider limit 
+[2023-01-10 13:57:09 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2023-01-10 13:57:09 : INFO] - Task with ID 24 and type (smush) failed with error code exceeded_max_filesize - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Aerial-View-1.png - cannot be optimized, file size is above service provider limit 
+[2023-01-10 13:57:09 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2023-01-10 13:57:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1508, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:09 : INFO] - 75 
+[2023-01-10 13:57:19 : INFO] - Backing up the original image - 2022/07/Aerial-View-scaled-updraft-pre-smush-original.jpg 
+[2023-01-10 13:57:19 : INFO] - Re_Smush_It_Task - Attachment ID : 1508, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:19 : INFO] - 75 
+[2023-01-10 13:57:20 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/07/Aerial-View-scaled.jpg.The file was compressed from 571.81 KB to 492.82 KB saving 13.81 percent using WP-Optimize 
+[2023-01-10 13:57:20 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2023-01-10 13:57:20 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2023-01-10 13:57:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1521, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:20 : INFO] - 75 
+[2023-01-10 13:57:27 : INFO] - Backing up the original image - 2022/08/Emotan-Garden-City-updraft-pre-smush-original.png 
+[2023-01-10 13:57:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1521, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:27 : INFO] - 75 
+[2023-01-10 13:57:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1521, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:29 : INFO] - 75 
+[2023-01-10 13:57:30 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/08/Emotan-Garden-City.png.The file was compressed from 404.13 KB to 109.95 KB saving 72.79 percent using WP-Optimize 
+[2023-01-10 13:57:30 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2023-01-10 13:57:30 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2023-01-10 13:57:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1534, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:30 : INFO] - 75 
+[2023-01-10 13:57:33 : INFO] - Backing up the original image - 2022/08/IMG-20220826-WA0103-updraft-pre-smush-original.jpg 
+[2023-01-10 13:57:33 : INFO] - Re_Smush_It_Task - Attachment ID : 1534, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:33 : INFO] - 75 
+[2023-01-10 13:57:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1534, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:34 : INFO] - 75 
+[2023-01-10 13:57:36 : INFO] - Re_Smush_It_Task - Attachment ID : 1534, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:36 : INFO] - 75 
+[2023-01-10 13:57:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1534, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:37 : INFO] - 75 
+[2023-01-10 13:57:38 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/08/IMG-20220826-WA0103.jpg.The file was compressed from 93.52 KB to 93.52 KB saving 0 percent using WP-Optimize 
+[2023-01-10 13:57:38 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2023-01-10 13:57:38 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2023-01-10 13:57:38 : INFO] - Re_Smush_It_Task - Attachment ID : 1553, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:38 : INFO] - 75 
+[2023-01-10 13:57:41 : INFO] - Backing up the original image - 2022/09/WhatsApp-Image-2022-09-13-at-11.05.48-AM-updraft-pre-smush-original.jpeg 
+[2023-01-10 13:57:41 : INFO] - Re_Smush_It_Task - Attachment ID : 1553, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:41 : INFO] - 75 
+[2023-01-10 13:57:42 : INFO] - Re_Smush_It_Task - Attachment ID : 1553, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:42 : INFO] - 75 
+[2023-01-10 13:57:42 : INFO] - Re_Smush_It_Task - Attachment ID : 1553, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:42 : INFO] - 75 
+[2023-01-10 13:57:44 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-13-at-11.05.48-AM.jpeg.The file was compressed from 138.68 KB to 138.18 KB saving 0.36 percent using WP-Optimize 
+[2023-01-10 13:57:44 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2023-01-10 13:57:44 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2023-01-10 13:57:44 : INFO] - Re_Smush_It_Task - Attachment ID : 1573, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:57:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:57:44 : INFO] - 75 
+[2023-01-10 13:58:00 : INFO] - 
+ 
+[2023-01-10 13:58:00 : INFO] - Header for logs at time:  Tue, 10 Jan 2023 13:58:00 +0000 on http://edpa.ng 
+[2023-01-10 13:58:00 : INFO] - WP: 6.1.1 
+[2023-01-10 13:58:00 : INFO] - PHP: 7.4.33 (litespeed, Linux p3plzcpnl464869.prod.phx3.secureserver.net 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-01-10 13:58:00 : INFO] - MySQL: 5.7.40 
+[2023-01-10 13:58:00 : INFO] - WPLANG: en_US 
+[2023-01-10 13:58:00 : INFO] - Server: Apache 
+[2023-01-10 13:58:00 : INFO] - Outbound connections: N 
+[2023-01-10 13:58:00 : INFO] - safe_mode: 0 
+[2023-01-10 13:58:00 : INFO] - max_execution_time: 30 
+[2023-01-10 13:58:00 : INFO] - memory_limit: 128M (used: 14.2M | 16M) 
+[2023-01-10 13:58:00 : INFO] - multisite: N 
+[2023-01-10 13:58:00 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-01-10 13:58:00 : INFO] - A total of 19 tasks of type smush found and will be processed in this iteration 
+[2023-01-10 13:58:00 : DEBUG] - Lock option (updraft_lock_smush, wp_01options) already existed in the database 
+[2023-01-10 13:58:00 : INFO] - Lock (updraft_lock_smush, wp_01options) could not be acquired (it is locked) 
+[2023-01-10 13:58:00 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2023-01-10 13:58:00 : INFO] - Backing up the original image - 2022/10/EDPA-Weekly-Bulletin-scaled-updraft-pre-smush-original.jpg 
+[2023-01-10 13:58:00 : INFO] - Re_Smush_It_Task - Attachment ID : 1573, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:00 : INFO] - 75 
+[2023-01-10 13:58:01 : INFO] - Re_Smush_It_Task - Attachment ID : 1573, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:01 : INFO] - 75 
+[2023-01-10 13:58:04 : INFO] - Re_Smush_It_Task - Attachment ID : 1573, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:04 : INFO] - 75 
+[2023-01-10 13:58:05 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/10/EDPA-Weekly-Bulletin-scaled.jpg.The file was compressed from 705.23 KB to 531.28 KB saving 24.67 percent using WP-Optimize 
+[2023-01-10 13:58:05 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2023-01-10 13:58:05 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2023-01-10 13:58:05 : INFO] - Re_Smush_It_Task - Attachment ID : 1588, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:05 : INFO] - 75 
+[2023-01-10 13:58:10 : INFO] - Backing up the original image - 2022/10/Slide-5-scaled-updraft-pre-smush-original.jpg 
+[2023-01-10 13:58:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1588, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:10 : INFO] - 75 
+[2023-01-10 13:58:11 : INFO] - Re_Smush_It_Task - Attachment ID : 1588, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:11 : INFO] - 75 
+[2023-01-10 13:58:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1588, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:13 : INFO] - 75 
+[2023-01-10 13:58:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1588, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:13 : INFO] - 75 
+[2023-01-10 13:58:15 : INFO] - Re_Smush_It_Task - Attachment ID : 1588, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:15 : INFO] - 75 
+[2023-01-10 13:58:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1588, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:18 : INFO] - 75 
+[2023-01-10 13:58:22 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/10/Slide-5-scaled.jpg.The file was compressed from 313.08 KB to 213.53 KB saving 31.8 percent using WP-Optimize 
+[2023-01-10 13:58:22 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2023-01-10 13:58:22 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2023-01-10 13:58:22 : INFO] - Re_Smush_It_Task - Attachment ID : 1675, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:22 : INFO] - 75 
+[2023-01-10 13:58:32 : INFO] - Backing up the original image - 2022/12/1-B-updraft-pre-smush-original.png 
+[2023-01-10 13:58:32 : INFO] - Re_Smush_It_Task - Attachment ID : 1675, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:32 : INFO] - 75 
+[2023-01-10 13:58:33 : INFO] - Re_Smush_It_Task - Attachment ID : 1675, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:33 : INFO] - 75 
+[2023-01-10 13:58:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1675, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:34 : INFO] - 75 
+[2023-01-10 13:58:40 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/1-B.png.The file was compressed from 891.14 KB to 296.01 KB saving 66.78 percent using WP-Optimize 
+[2023-01-10 13:58:40 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2023-01-10 13:58:40 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2023-01-10 13:58:40 : INFO] - Re_Smush_It_Task - Attachment ID : 1676, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:40 : INFO] - 75 
+[2023-01-10 13:58:44 : INFO] - Backing up the original image - 2022/12/1-updraft-pre-smush-original.png 
+[2023-01-10 13:58:44 : INFO] - Re_Smush_It_Task - Attachment ID : 1676, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:44 : INFO] - 75 
+[2023-01-10 13:58:46 : INFO] - Re_Smush_It_Task - Attachment ID : 1676, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:46 : INFO] - 75 
+[2023-01-10 13:58:47 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/1.png.The file was compressed from 382.90 KB to 134.61 KB saving 64.84 percent using WP-Optimize 
+[2023-01-10 13:58:47 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2023-01-10 13:58:47 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2023-01-10 13:58:47 : INFO] - Task with ID 33 and type (smush) failed with error code invalid_file_type - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/ic_baseline-water-drop.svg - cannot be optimized, it has an invalid file type 
+[2023-01-10 13:58:47 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2023-01-10 13:58:47 : INFO] - Task with ID 34 and type (smush) failed with error code invalid_file_type - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/mdi_electricity-circle.svg - cannot be optimized, it has an invalid file type 
+[2023-01-10 13:58:47 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2023-01-10 13:58:47 : INFO] - Task with ID 35 and type (smush) failed with error code invalid_file_type - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/mdi_fence.svg - cannot be optimized, it has an invalid file type 
+[2023-01-10 13:58:47 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2023-01-10 13:58:47 : INFO] - Task with ID 36 and type (smush) failed with error code invalid_file_type - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/mdi_pipe.svg - cannot be optimized, it has an invalid file type 
+[2023-01-10 13:58:47 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2023-01-10 13:58:47 : INFO] - Task with ID 37 and type (smush) failed with error code invalid_file_type - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/healthicons_paved-road-alt-negative.svg - cannot be optimized, it has an invalid file type 
+[2023-01-10 13:58:47 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2023-01-10 13:58:47 : INFO] - Task with ID 38 and type (smush) failed with error code invalid_file_type - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/mdi_pipe-1.svg - cannot be optimized, it has an invalid file type 
+[2023-01-10 13:58:47 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2023-01-10 13:58:47 : INFO] - Task with ID 39 and type (smush) failed with error code invalid_file_type - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/mdi_fence-1.svg - cannot be optimized, it has an invalid file type 
+[2023-01-10 13:58:47 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2023-01-10 13:58:47 : INFO] - Task with ID 40 and type (smush) failed with error code invalid_file_type - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/ic_baseline-water-drop-1.svg - cannot be optimized, it has an invalid file type 
+[2023-01-10 13:58:47 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2023-01-10 13:58:47 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_file_type - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/healthicons_paved-road-alt-negative-1.svg - cannot be optimized, it has an invalid file type 
+[2023-01-10 13:58:47 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2023-01-10 13:58:47 : INFO] - Task with ID 42 and type (smush) failed with error code invalid_file_type - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/mdi_electricity-circle-1.svg - cannot be optimized, it has an invalid file type 
+[2023-01-10 13:58:47 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2023-01-10 13:58:47 : INFO] - Re_Smush_It_Task - Attachment ID : 1702, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:47 : INFO] - 75 
+[2023-01-10 13:58:57 : INFO] - Backing up the original image - 2022/12/1-B-1-updraft-pre-smush-original.png 
+[2023-01-10 13:58:57 : INFO] - Re_Smush_It_Task - Attachment ID : 1702, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:57 : INFO] - 75 
+[2023-01-10 13:58:59 : INFO] - Re_Smush_It_Task - Attachment ID : 1702, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:58:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:58:59 : INFO] - 75 
+[2023-01-10 13:59:00 : INFO] - Re_Smush_It_Task - Attachment ID : 1702, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:59:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:59:00 : INFO] - 75 
+[2023-01-10 13:59:00 : INFO] - 
+ 
+[2023-01-10 13:59:00 : INFO] - Header for logs at time:  Tue, 10 Jan 2023 13:59:00 +0000 on http://edpa.ng 
+[2023-01-10 13:59:00 : INFO] - WP: 6.1.1 
+[2023-01-10 13:59:00 : INFO] - PHP: 7.4.33 (litespeed, Linux p3plzcpnl464869.prod.phx3.secureserver.net 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-01-10 13:59:00 : INFO] - MySQL: 5.7.40 
+[2023-01-10 13:59:00 : INFO] - WPLANG: en_US 
+[2023-01-10 13:59:00 : INFO] - Server: Apache 
+[2023-01-10 13:59:00 : INFO] - Outbound connections: N 
+[2023-01-10 13:59:00 : INFO] - safe_mode: 0 
+[2023-01-10 13:59:00 : INFO] - max_execution_time: 30 
+[2023-01-10 13:59:00 : INFO] - memory_limit: 128M (used: 14.1M | 16M) 
+[2023-01-10 13:59:00 : INFO] - multisite: N 
+[2023-01-10 13:59:00 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-01-10 13:59:00 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2023-01-10 13:59:00 : DEBUG] - Lock option (updraft_lock_smush, wp_01options) already existed in the database 
+[2023-01-10 13:59:00 : INFO] - Lock (updraft_lock_smush, wp_01options) could not be acquired (it is locked) 
+[2023-01-10 13:59:00 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2023-01-10 13:59:08 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/1-B-1.png.The file was compressed from 891.14 KB to 296.01 KB saving 66.78 percent using WP-Optimize 
+[2023-01-10 13:59:08 : INFO] - Completed processing task with ID : 43, and type 'smush' 
+[2023-01-10 13:59:08 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2023-01-10 13:59:08 : INFO] - Re_Smush_It_Task - Attachment ID : 1720, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:59:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:59:08 : INFO] - 75 
+[2023-01-10 13:59:09 : INFO] - Backing up the original image - 2022/12/Home-About-Mask-Jim--updraft-pre-smush-original.png 
+[2023-01-10 13:59:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1720, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:59:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:59:09 : INFO] - 75 
+[2023-01-10 13:59:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1720, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:59:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:59:09 : INFO] - 75 
+[2023-01-10 13:59:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1720, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:59:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:59:10 : INFO] - 75 
+[2023-01-10 13:59:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1720, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:59:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:59:10 : INFO] - 75 
+[2023-01-10 13:59:11 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/Home-About-Mask-Jim-.png.The file was compressed from 11.52 KB to 7.42 KB saving 35.63 percent using WP-Optimize 
+[2023-01-10 13:59:11 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2023-01-10 13:59:11 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2023-01-10 13:59:11 : INFO] - Task with ID 45 and type (smush) failed with error code exceeded_max_filesize - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/2-bedroom-semi-detached.png - cannot be optimized, file size is above service provider limit 
+[2023-01-10 13:59:11 : INFO] - Processing task with ID : 46, and type 'smush' 
+[2023-01-10 13:59:11 : INFO] - Task with ID 46 and type (smush) failed with error code exceeded_max_filesize - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/3-bedroom-semi-detached.png - cannot be optimized, file size is above service provider limit 
+[2023-01-10 13:59:11 : INFO] - Processing task with ID : 47, and type 'smush' 
+[2023-01-10 13:59:11 : INFO] - Re_Smush_It_Task - Attachment ID : 1791, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:59:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:59:11 : INFO] - 75 
+[2023-01-10 13:59:16 : INFO] - Backing up the original image - 2022/12/3-bedroom-fully-detached-updraft-pre-smush-original.png 
+[2023-01-10 13:59:16 : INFO] - Re_Smush_It_Task - Attachment ID : 1791, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:59:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:59:16 : INFO] - 75 
+[2023-01-10 13:59:17 : INFO] - Re_Smush_It_Task - Attachment ID : 1791, Started on : January 10, 2023 01:51:59 
+[2023-01-10 13:59:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-01-10 13:59:17 : INFO] - 75 
+[2023-01-10 13:59:18 : INFO] - Successfully optimized the image - /home/q2mvhnakxqy6/public_html/wp-content/uploads/2022/12/3-bedroom-fully-detached.png.The file was compressed from 382.90 KB to 134.61 KB saving 64.84 percent using WP-Optimize 
+[2023-01-10 13:59:18 : INFO] - Completed processing task with ID : 47, and type 'smush' 
+[2023-01-10 13:59:18 : INFO] - Lock option (updraft_lock_smush, wp_01options) released 
+[2023-01-10 13:59:18 : INFO] - Successfully processed the queue (smush). 27 tasks were processed out of 27. 
+[2023-01-10 13:59:18 : INFO] - Lock option (updraft_lock_smush, wp_01options) was deleted from the database 
+[2023-01-10 13:59:18 : INFO] - Cleaning up tasks of type (smush). A total of 47 tasks will be deleted. 
